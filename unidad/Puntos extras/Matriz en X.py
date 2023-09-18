@@ -1,5 +1,6 @@
 import random
 matriz = []
+
 while True:
     try:
         dato = input("Ingrese N: ")
